@@ -1,6 +1,4 @@
 {
-  "admobID": {
     "banner": "ca-app-pub-3865769587921225/7640822394",
     "interstitial": "ca-app-pub-3865769587921225/9117555593"
-  }
 }
