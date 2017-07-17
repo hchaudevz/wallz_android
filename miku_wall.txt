@@ -1,4 +1,6 @@
 {
+    "ad_banner": "ca-app-pub-3865769587921225/7640822394",
+    "ad_inters": "ca-app-pub-3865769587921225/9117555593", 
   "category": [
     {
       "name": "Art-Collection",
