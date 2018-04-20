@@ -1,0 +1,19 @@
+{
+  "menu": [
+    {
+      "title": "Art Anime Wallpapers for DBS",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.dbswallpapers",
+      "icon": "https://lh3.googleusercontent.com/mzKqN0IhuT0s8ab4haBnHEch4J8sVP1XI7AYSRuLSmaK9-WZP5ROVb-2TCLiyzU-zwg=s360-rw"
+    },
+    {
+      "title": "Art Sasuke Wallpapers HD",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.sasukewallpaper",
+      "icon": "https://lh3.googleusercontent.com/WPfrp_iKZQD5xBq3yJvzhFEBXFXNuCaviv4YMPuXtQgdb5SUNgkS5prD3ohllJbFgA=s360-rw"
+    },
+    {
+      "title": "Cool HD Wallpapers for Flash Hero",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.flashwallpaper",
+      "icon": "https://lh3.googleusercontent.com/heyJKdYODGBfIaFb2deKentD5uO7E8B8Er4FLJNrmlgANr1niQMqI1lXFraVBaZjUnY=s360-rw"
+    }
+  ]
+}
