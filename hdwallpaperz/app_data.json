@@ -29,5 +29,17 @@
       "developer": "JChow Studio",
       "price": ""
     }
+  ],
+  "ads": [
+    {
+      "type": "banner",
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "enable": true
+    },
+    {
+      "type": "inters",
+      "id": "ca-app-pub-3940256099942544/1033173712",
+      "enable": true
+    }
   ]
 }
