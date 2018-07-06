@@ -1,0 +1,38 @@
+{
+  "version": "1.0.0",
+  "relatedApps": [
+    {
+      "title": "Art Anime Wallpapers for DBS",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.dbswallpapers",
+      "icon": "https://lh3.googleusercontent.com/mzKqN0IhuT0s8ab4haBnHEch4J8sVP1XI7AYSRuLSmaK9-WZP5ROVb-2TCLiyzU-zwg=s180",
+      "developer": "JChow Studio",
+      "price": ""
+    },
+    {
+      "title": "Anime Naru Wallpapers HD",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.wallpapernaruto",
+      "icon": "https://lh3.googleusercontent.com/MDOkXU2jqAwyX6qKkJw2wiv9RW5vPa-yREVo-ath2pxT2Q1nOy-6PRFfTVrKRwZ_UcQ=s360-rw",
+      "developer": "",
+      "price": ""
+    },
+    {
+      "title": "Cool Poke Live Wallpapers",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.livewallpoke",
+      "icon": "https://lh3.googleusercontent.com/XcG1GbUxD7P6B_aTRqXMYyfsFuUD0JU7wDh3tjQGkMRRdqdZmMiJllJY855HA6VnvTU=s360-rw",
+      "developer": "",
+      "price": ""
+    }
+  ],
+  "ads": [
+    {
+      "type": "banner",
+      "id": "ca-app-pub-3940256099942544/6300978111",
+      "enable": false
+    },
+    {
+      "type": "inters",
+      "id": "ca-app-pub-3940256099942544/1033173712",
+      "enable": false
+    }
+  ]
+}
