@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "relatedApps": [
     {
       "title": "Art Anime Wallpapers for DBS",
@@ -26,13 +26,13 @@
   "ads": [
     {
       "type": "banner",
-      "id": "ca-app-pub-3940256099942544/6300978111",
-      "enable": false
+      "id": "ca-app-pub-3865769587921225/3276478808",
+      "enable": true
     },
     {
       "type": "inters",
-      "id": "ca-app-pub-3940256099942544/1033173712",
-      "enable": false
+      "id": "ca-app-pub-3865769587921225/3140747436",
+      "enable": true
     }
   ]
 }
