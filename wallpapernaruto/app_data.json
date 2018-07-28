@@ -1,17 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "relatedApps": [
     {
       "title": "Art SAO Wallpapers HD",
       "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.saowallpaper",
       "icon": "https://lh3.googleusercontent.com/mSTMlGFS8R5v4VBSyCa4ptg2GeZkaMOenD9SptWlRhtcuBqttiHkA_WCUWPqktIXGw=s180",
-      "developer": "JChow Studio",
-      "price": ""
-    },
-    {
-      "title": "Cool HD Wallpapers for Flash Hero",
-      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.flashwallpaper",
-      "icon": "https://lh3.googleusercontent.com/heyJKdYODGBfIaFb2deKentD5uO7E8B8Er4FLJNrmlgANr1niQMqI1lXFraVBaZjUnY=w300",
       "developer": "JChow Studio",
       "price": ""
     },
@@ -23,22 +16,29 @@
       "price": ""
     },
     {
-      "title": "Attack on Wallpapers HD",
-      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.attackwallpaper",
-      "icon": "https://lh3.googleusercontent.com/bW9qs1mcAIXHCaixSGGFwbLn7Hb5j1ugWz6eLczetNiHC0_Ft_GnVocJOE6xWhOI2Zw=s180",
-      "developer": "JChow Studio",
+      "title": "One Luffy Wallpapers HD",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.wallzoneluffy",
+      "icon": "https://lh3.googleusercontent.com/6eDku6rSHugcwd7W7QJi1uNxW9ahHaamhm8Ay6NjfGXz_Mlpw3GqhFF5pL4NpZrTtZA=s360-rw",
+      "developer": "",
+      "price": ""
+    },
+    {
+      "title": "Art Goku Ultra Wallpaper HD",
+      "url": "https://play.google.com/store/apps/details?id=com.jchowstudio.wallzgokuultra",
+      "icon": "https://lh3.googleusercontent.com/NgtxJYMEVnoUisjxM3vhm35OJdwaOAmrgcDCJcA5ybRYqxyuvzW0altioxFQSp0JNDg=s360-rw",
+      "developer": "",
       "price": ""
     }
   ],
   "ads": [
     {
       "type": "banner",
-      "id": "ca-app-pub-3865769587921225/3276478808",
+      "id": "ca-app-pub-3865769587921225/9463667498",
       "enable": true
     },
     {
       "type": "inters",
-      "id": "ca-app-pub-3865769587921225/3140747436",
+      "id": "ca-app-pub-3865769587921225/7767442442",
       "enable": true
     }
   ]
