@@ -39,7 +39,7 @@
     {
       "type": "inters",
       "id": "ca-app-pub-3940256099942544/1033173712",
-      "enable": false
+      "enable": true
     }
   ]
 }
