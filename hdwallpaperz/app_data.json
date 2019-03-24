@@ -1,13 +1,13 @@
 {
-  "ver": "1.0.0",
-  "ads": {
+  "version": "1.0.0",
+  "adsInfo": {
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
     "inters_id": "ca-app-pub-3940256099942544/1033173712",
     "banner_enable": true,
-    "inters_enable": false,
+    "inters_enable": true,
     "inters_limit": "15"
   },
-  "walls": [
+  "photos": [
     {
       "title": "1_chubby_love_by_seviyummy-da1b5t0",
       "url": "https://farm5.staticflickr.com/4267/34111582143_04af6a92bf_o.jpg"
