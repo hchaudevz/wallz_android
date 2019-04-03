@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "relatedApps": [
     {
       "title": "Art SAO Wallpapers HD",
@@ -37,7 +37,7 @@
     "inters_enable": true,
     "inters_limit": "10",
     "house_ads_enable": true,
-    "force_rate_enable": true
+    "force_rate_enable": false
   },
   "photos": [
     {
