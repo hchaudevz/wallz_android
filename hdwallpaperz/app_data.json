@@ -30,12 +30,14 @@
       "price": ""
     }
   ],
-  "adsInfo": {
+  "settings": {
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
     "inters_id": "ca-app-pub-3940256099942544/1033173712",
     "banner_enable": true,
     "inters_enable": true,
-    "inters_limit": "15"
+    "inters_limit": "10",
+    "house_ads_enable": true,
+    "force_rate_enable": true
   },
   "photos": [
     {
