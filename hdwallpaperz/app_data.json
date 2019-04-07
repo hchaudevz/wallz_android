@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "settings": {
     "banner_id": "ca-app-pub-3940256099942544/6300978111",
     "inters_id": "ca-app-pub-3940256099942544/1033173712",
@@ -7,7 +7,7 @@
     "inters_enable": true,
     "inters_limit": "10",
     "related_apps_url": "https://raw.githubusercontent.com/hchaudevz/wallz_android/master/hdwallpaperz/relatedApps.json",
-    "force_rate_enable": false
+    "force_rate_enable": true
   },
   "photos": [
     {
